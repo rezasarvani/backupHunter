@@ -1,0 +1,37 @@
+{
+  "backupfile_extensions": [
+    ".rar",
+    ".zip",
+    ".bak.php",
+    ".old",
+    ".bk",
+    ".bak",
+    ".swp",
+    ".7z",
+    ".back",
+    ".backup",
+    ".bck",
+    ".bz2",
+    ".copy",
+    ".gz",
+    ".old",
+    ".orig",
+    ".sav",
+    ".save",
+    ".tar",
+    ".tar.bz2",
+    ".tar.bzip2",
+    ".tar.gz",
+    ".tar.gzip",
+    ".tgz",
+    ".tmp"
+  ],
+  "extensions": [
+    ".1",
+    ".2",
+    ".3",
+    ".4",
+    ".5",
+    "~"
+  ]
+}
