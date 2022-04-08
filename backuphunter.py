@@ -140,4 +140,4 @@ else:
         file_handle.write(f"{word}\n")
     file_handle.close()
     message_print(f"[+] File Saved To: {options.output}")
-verbose_print(f"[*] Backup Killer Finished It's Job. [{current_time()}]")
+verbose_print(f"[DBUG] Backup Killer Finished It's Job. [{current_time()}]")
